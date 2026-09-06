@@ -1,0 +1,6 @@
+{
+  "name": "PyLearn",
+  "description": "Master Python from beginner to advanced with interactive lessons, code challenges, progress tracking, and a built-in compiler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
